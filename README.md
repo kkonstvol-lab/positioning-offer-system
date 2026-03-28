@@ -64,6 +64,19 @@ positioning-offer-system/
     └── landing-skeleton-example.md   — landing structure reference
 ```
 
+## Inspiration
+
+Inspired by [Gerstep/positioning-plugin](https://github.com/Gerstep/positioning-plugin) — a great structured positioning exercise for startups and teams.
+
+Key differences in this skill:
+- Extended for **service agencies** (not just product startups)
+- Added **landing translation** — 7-section skeleton from hero to CTA
+- Added **scoring gate** (0–100) — blocks weak positioning before it reaches the landing
+- Added **deep context intake** — 20+ questions across 4 blocks (business, audience, situation, motivation)
+- Added **anti-patterns** reference — what to never do
+- Added **output template** — saves result to a structured MD file
+- 4 worked examples including a corporate production agency pattern
+
 ## License
 
 MIT
